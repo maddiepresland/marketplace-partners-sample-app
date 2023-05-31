@@ -2,7 +2,7 @@
 
 Thanks for your interest in contributing to the Linode Marketplace!
 
-You can contribute by [opening an issue](https://github.comlinode-solutions/marketplace-partners-sample-app/issues) or submitting a pull request. Best practices for development of Linode Marketplace Apps are discussed in the [Development Readme](DEVELOPMENT.md).
+You can contribute by [opening an issue](https://github.com/linode-solutions/marketplace-partners-sample-app/issues) or submitting a pull request. Best practices for development of Linode Marketplace Apps are discussed in the [Development Readme](DEVELOPMENT.md).
 
 ## Opening an issue
 
